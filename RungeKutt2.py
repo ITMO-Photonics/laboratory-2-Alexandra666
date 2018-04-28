@@ -8,7 +8,7 @@ Nsteps=500
 #y=np.empty_like(t)
 #v=np.empty_like(t)
 #h=t[1]-t[0]
-h=0.05
+h=0.01
 r = np.array([25.,25.])
 v = np.array([5.,0.])
 
